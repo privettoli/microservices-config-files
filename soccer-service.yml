@@ -1,5 +1,5 @@
 server:
-  port: ${PORT:0}
+  port: ${PORT:43641}
   servlet-path: /api/v1
 spring:
   application.name: soccer-service
