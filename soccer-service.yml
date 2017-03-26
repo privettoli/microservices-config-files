@@ -5,9 +5,9 @@ spring:
   application.name: soccer-service
   datasource:
     username: beapplicant
-    password: beapplicant
+    password: human002017
     driverClassName: com.mysql.jdbc.Driver
-    url: "jdbc:mysql://localhost:3306/soccer_service?createDatabaseIfNotExist=true&useSSL=false"
+    url: "jdbc:mysql://localhost:3306/beapplicant?createDatabaseIfNotExist=true&useSSL=false"
   jpa:
     database: mysql
     show-sql: false
